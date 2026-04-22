@@ -1,0 +1,13 @@
+# Ignorar arquivos de sistema
+thumbs.db
+.DS_Store
+
+# Ignorar pastas de editores
+.vscode/
+.idea/
+
+# Ignorar executáveis e arquivos compilados
+*.exe
+*.o
+*.out
+__pycache__/
